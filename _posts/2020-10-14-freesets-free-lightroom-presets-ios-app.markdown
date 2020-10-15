@@ -9,5 +9,5 @@ subtitle: "Free Lightroom Presets"
 excerpt: "Free Lightroom presets created by best photographers. Everyday a new premium preset to enhance your images on the go."
 
 screenshot: freesets.jpg
-appstoreLink: https://apps.apple.com/app/newsfeed-news-and-rss-reader/id1456526971
+appstoreLink: https://testflight.apple.com/join/wQQG69Ew
 ---
