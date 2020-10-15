@@ -101,11 +101,15 @@ article img {
 	font-weight: 600;
 }
 .section .text p {
-  margin-top: 1em;
+  margin: 1em auto;
 	line-height: 1.44em;
 	font-weight: 300;
 	letter-spacing: .016em;
 	color: #000;
+}
+
+.appstorelink {
+	width: 146px;
 }
 
 footer {
@@ -152,6 +156,7 @@ footer .link.active {
     top: 0px;
     width: 100%;
 		max-width: 500px;
+		text-align: center;
 	}
 
 	.section .iphone-wrapper {
