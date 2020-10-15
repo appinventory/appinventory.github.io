@@ -60,7 +60,7 @@ html, body {
 
 .hero {
 	text-align: center;
-	margin: 80px auto 100px auto;
+	margin: 80px auto 40px auto;
 }
 
 .hero h2 {
@@ -118,7 +118,7 @@ article img {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding-bottom: 60px;
+	padding-top: 100px;
 }
 
 .section .text {
@@ -163,15 +163,15 @@ footer a, a:visited {
     padding: 0px 10px;
   }
 
-  #hero {
-    margin: 40px auto;
+  .hero {
+    margin: 40px auto 0px auto;
   }
 
-  #hero h2 {
+  .hero h2 {
     font-size: 2em;
   }
 
-  #hero p {
+  .hero p {
     margin-top: 1em;
   }
 
