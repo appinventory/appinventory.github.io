@@ -69,9 +69,38 @@ html, body {
 }
 
 #hero p {
-  margin-top: 1.5em;
+  margin-top: 1em;
 	font-weight: 300;
   color: #ababab;
+}
+
+a, a:visited {
+	text-decoration: underline;
+	color: #000 !important;
+}
+
+a:hover {
+	transition: 0.3s;
+	color: #0096FF !important;
+}
+
+#hero a {
+	text-decoration: none;
+}
+
+.page-text {
+	max-width: 670px;
+	width: 100%;
+	margin: auto;
+	line-height: 1.44em;
+	font-weight: 300;
+	letter-spacing: .016em;
+}
+
+.page-text h2 {
+	font-size: 1.1em;
+	font-weight: 600;
+	margin-bottom: 1em;
 }
 
 article {
@@ -114,19 +143,19 @@ article img {
 }
 
 footer {
-  margin: 0 auto;
+	font-size: 0.8em;
+  margin: 200px auto;
 	height: 64px;
 	padding: 0 24px;
+	text-align: center;
+	color: #ababab;
 }
 
-footer .link {
-	color: #999;
-	margin: 0 12px;
+footer a, a:visited {
+	color: #ababab;
 }
-
-footer .link.active {
-	font-weight: 500;
-	color: #333;
+footer a:hover {
+	color: #0096FF !important;
 }
 
 
