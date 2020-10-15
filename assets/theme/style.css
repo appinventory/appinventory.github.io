@@ -60,7 +60,7 @@ html, body {
 
 .hero {
 	text-align: center;
-	margin: 80px auto 40px auto;
+	margin: 50px auto 0px auto;
 }
 
 .hero h2 {
@@ -164,7 +164,7 @@ footer a, a:visited {
   }
 
   .hero {
-    margin: 40px auto 0px auto;
+    margin: 25px auto 0px auto;
   }
 
   .hero h2 {
