@@ -23,6 +23,7 @@ baseurl: ""
 url: "https://appinventory.github.io"
 assetsUrl: /assets/
 imagesUrl: /assets/images/
+themeAssets: /assets/theme/
 # Build settings
 markdown: kramdown
 plugins:

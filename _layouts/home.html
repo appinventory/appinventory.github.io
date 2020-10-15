@@ -15,7 +15,7 @@ layout: default
 					<h4>{{ post.title }}</h4>
 					<p>{{ post.excerpt }}</p>
 					<a href="{{ post.appstoreLink }}">
-						<img class="appstorelink" src="{{ site.assetsUrl | append: 'appstore.png' }}">
+						<img class="appstorelink" src="{{ site.themeAssets | append: 'appstore.png' }}">
 					</a>
 				</div>
 			</div>
@@ -27,7 +27,7 @@ layout: default
 					<h4>{{ post.title }}</h4>
 		      <p>{{ post.excerpt }}</p>
 					<a href="{{ post.appstoreLink }}">
-						<img class="appstorelink" src="{{ site.assetsUrl | append: 'appstore.png' }}">
+						<img class="appstorelink" src="{{ site.themeAssets | append: 'appstore.png' }}">
 					</a>
 				</div>
 				<img src="{{ site.imagesUrl | append: post.screenshot }}">

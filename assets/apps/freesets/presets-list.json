@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "publishingDate" : "13-10-2020",
+    "name": "Paparazzi",
+    "categories": ["warm, dark, moody"],
+    "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/11b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/11a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/12b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/12a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/13b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/13a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/14b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/14a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/1.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "2",
+    "publishingDate" : "12-10-2020",
+    "name": "Purple Rain",
+    "categories": ["cool, solid"],
+    "description": "This preset produces a cool, purplish/pink lavender effect. It enhances reality, adding a touch of subtlety or drama to the image. It’s designed to enhance natural light with subtle color wash and a final bold strong effect.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/21b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/21a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/22b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/22a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/23b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/23a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/24b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/24a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/2.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "3",
+    "publishingDate" : "11-10-2020",
+    "name": "Heavenly Blue",
+    "categories": ["cool, bright"],
+    "description": "The best preset to lighten up the blue of your skies and seas. All cold shades acquire a bright and deep hue. Shots become sharper and clearer, and everything will appear so refreshing.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/31b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/31a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/32b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/32a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/33b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/33a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/34b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/34a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/3.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "4",
+    "publishingDate" : "10-10-2020",
+    "name": "Fluffy Friends",
+    "categories": ["warm, autumn"],
+    "description": "Enhance the softness of your furry pets best friends. Enrich the warm tones, perfect for automn cute portraits.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/41b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/41a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/42b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/42a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/43b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/43a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/44b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/44a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/4.dng",
+    "isCollagePortrait": false
+  }
+]

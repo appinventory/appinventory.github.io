@@ -37,14 +37,14 @@
   <meta name='dailymotion-domain-verification' content='dm9ux7umimh5dp9hv' />
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}"/>
-  <link rel="stylesheet" type="text/css" href="{{ site.assetsUrl | append: "style.css" | absolute_url }}"/>
+  <link rel="stylesheet" type="text/css" href="{{ site.themeAssets | append: "style.css" | absolute_url }}"/>
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | absolute_url }}"/>
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.assetsUrl | append: '/apple-touch-icon.png' }}">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.assetsUrl | append: '/favicon-32x32.png' }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.assetsUrl | append: '/favicon-16x16.png' }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.themeAssets | append: '/apple-touch-icon.png' }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.themeAssets | append: '/favicon-32x32.png' }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.themeAssets | append: '/favicon-16x16.png' }}">
   <link rel="manifest" href="/site.webmanifest">
 
 </head>
