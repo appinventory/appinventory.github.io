@@ -58,25 +58,24 @@ html, body {
   font-size: 21px;
 }
 
-#hero {
+.hero {
 	text-align: center;
-	margin: 80px auto 120px auto;
+	margin: 80px auto 100px auto;
 }
 
-#hero h2 {
+.hero h2 {
   font-size: 2.5em;
 	font-weight: 600;
 }
 
-#hero p {
+.hero p {
   margin-top: 1em;
 	font-weight: 300;
   color: #ababab;
 }
 
 a, a:visited {
-	text-decoration: underline;
-	color: #000 !important;
+	color: #000;
 }
 
 a:hover {
@@ -84,8 +83,9 @@ a:hover {
 	color: #0096FF !important;
 }
 
-#hero a {
+.herolink, herolink:visited {
 	text-decoration: none;
+	color: #000 !important;
 }
 
 .page-text {
@@ -144,7 +144,7 @@ article img {
 
 footer {
 	font-size: 0.8em;
-  margin: 100px auto;
+  margin: 200px auto;
 	height: 64px;
 	padding: 0 24px;
 	text-align: center;
@@ -154,9 +154,7 @@ footer {
 footer a, a:visited {
 	color: #ababab;
 }
-footer a:hover {
-	color: #0096FF !important;
-}
+
 
 
 @media screen and (max-width: 760px) {
