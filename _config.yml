@@ -20,7 +20,7 @@ keywords: "ios, apps"
 permalink: pretty
 
 baseurl: ""
-url: "www.appinventory.github.io"
+url: "https://appinventory.github.io"
 assetsurl: /assets/
 
 remote_theme: appinventory/showcase
