@@ -19,6 +19,7 @@ description: "A set of iOS apps for everyday needs"
 keywords: "ios, apps"
 permalink: pretty
 
+
 baseurl: ""
 url: "https://appinventory.github.io"
 assetsurl: /assets/
