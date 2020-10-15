@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+		{{ content }}
+
+		{% for post in site.posts %}
+		{% capture index %}{% cycle 'odd', 'even' %}{% endcapture %}
+		<article>
+
+		{% if index == 'odd' %}
+			<div class="section">
+				<img src="assets/images/{{ post.screenshot }}">
+				<div class="text">
+					<h4>{{ post.title }}</h4>
+					<p>{{ post.excerpt }}</p>
+				</div>
+			</div>
+
+		{% else %}
+
+			<div class="section">
+				<div class="text">
+					<h4>{{ post.title }}</h4>
+		      <p>{{ post.excerpt }}</p>
+				</div>
+				<img src="assets/images/{{ post.screenshot }}">
+			</div>
+		{% endif %}
+
+		{% endfor %}
