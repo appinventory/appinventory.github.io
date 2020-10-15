@@ -10,11 +10,13 @@ layout: default
 
 		{% if index == 'odd' %}
 			<div class="section">
-				<img src="assets/images/{{ post.screenshot }}">
+				<img src="{{ site.imagesUrl | append: post.screenshot }}">
 				<div class="text">
 					<h4>{{ post.title }}</h4>
 					<p>{{ post.excerpt }}</p>
-					<img class="appstorelink" src="assets/appstore.png">
+					<a href="{{ post.appstoreLink }}">
+						<img class="appstorelink" src="{{ site.assetsUrl | append: 'appstore.png' }}">
+					</a>
 				</div>
 			</div>
 
@@ -24,9 +26,11 @@ layout: default
 				<div class="text">
 					<h4>{{ post.title }}</h4>
 		      <p>{{ post.excerpt }}</p>
-					<img class="appstorelink" src="assets/appstore.png">
+					<a href="{{ post.appstoreLink }}">
+						<img class="appstorelink" src="{{ site.assetsUrl | append: 'appstore.png' }}">
+					</a>
 				</div>
-				<img src="assets/images/{{ post.screenshot }}">
+				<img src="{{ site.imagesUrl | append: post.screenshot }}">
 			</div>
 		{% endif %}
 

@@ -21,8 +21,8 @@ permalink: pretty
 
 baseurl: ""
 url: "https://appinventory.github.io"
-assetsurl: /assets/
-
+assetsUrl: /assets/
+imagesUrl: /assets/images/
 # Build settings
 markdown: kramdown
 plugins:
