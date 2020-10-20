@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "publishingDate" : "13-10-2020",
+    "publishingDate" : "14-10-2020",
     "name": "Paparazzi",
-    "categories": ["warm, dark, moody"],
+    "categories": [""],
     "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
     "previews": [{
         "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/11b.jpg",
@@ -27,10 +27,10 @@
   },
   {
     "id": "2",
-    "publishingDate" : "12-10-2020",
+    "publishingDate" : "15-10-2020",
     "name": "Purple Rain",
-    "categories": ["cool, solid"],
-    "description": "This preset produces a cool, purplish/pink lavender effect. It enhances reality, adding a touch of subtlety or drama to the image. It’s designed to enhance natural light with subtle color wash and a final bold strong effect.",
+    "categories": [""],
+    "description": "A visionary preset to give a purple touch to all your scenes. All pinks and violets shades brighten up and stand out. Macro shots will gain a magic soul with this lavender overlay.",
     "previews": [{
         "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/21b.jpg",
         "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/21a.jpg"
@@ -53,9 +53,9 @@
   },
   {
     "id": "3",
-    "publishingDate" : "11-10-2020",
+    "publishingDate" : "16-10-2020",
     "name": "Heavenly Blue",
-    "categories": ["cool, bright"],
+    "categories": [""],
     "description": "The best preset to lighten up the blue of your skies and seas. All cold shades acquire a bright and deep hue. Shots become sharper and clearer, and everything will appear so refreshing.",
     "previews": [{
         "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/31b.jpg",
@@ -79,10 +79,10 @@
   },
   {
     "id": "4",
-    "publishingDate" : "10-10-2020",
+    "publishingDate" : "17-10-2020",
     "name": "Fluffy Friends",
-    "categories": ["warm, autumn"],
-    "description": "Enhance the softness of your furry pets best friends. Enrich the warm tones, perfect for automn cute portraits.",
+    "categories": [""],
+    "description": "The warmest preset to make your pets even cuter than what they are. Brown and all shades of fur gain in texture and warm tones. Cats and dogs photos will instantly have a softer look.",
     "previews": [{
         "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/41b.jpg",
         "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/41a.jpg"
@@ -102,5 +102,83 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/4.dng",
     "isCollagePortrait": false
+  },
+  {
+    "id": "5",
+    "publishingDate" : "18-10-2020",
+    "name": "Pumpkin Spice",
+    "categories": [""],
+    "description": "A full orange preset to give your pumpkins a richer and enhanced look. All orange shades stand out thanks to a balanced contrast and richer shadows. All pumpkin related shots become memorable.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/51b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/51a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/52b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/52a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/53b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/53a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/54b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/54a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/5.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "6",
+    "publishingDate" : "19-10-2020",
+    "name": "Autumn Vibes",
+    "categories": [""],
+    "description": "A fall preset to brighten all your orange and red tones. All falls and trees red tones will be enhanced by a richer contrast. Autumn shots will appear more intense and texturized.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/61b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/61a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/62b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/62a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/63b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/63a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/64b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/64a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/6.dng",
+    "isCollagePortrait": false
+  },
+  {
+    "id": "7",
+    "publishingDate" : "20-10-2020",
+    "name": "So Fifties",
+    "categories": [""],
+    "description": "A vintage preset perfect to give your pics a retro style. All colors lose saturation and contrast. Portrait and objects grow a greener overlay to copycat the film photos.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/71b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/71a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/72b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/72a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/73b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/73a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/74b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/74a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/7.dng",
+    "isCollagePortrait": true
   }
 ]
