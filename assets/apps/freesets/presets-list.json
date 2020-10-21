@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "publishingDate" : "14-10-2020",
+    "publishingDate" : "12-10-2020",
     "name": "Paparazzi",
     "categories": [""],
     "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
@@ -27,7 +27,7 @@
   },
   {
     "id": "2",
-    "publishingDate" : "15-10-2020",
+    "publishingDate" : "13-10-2020",
     "name": "Purple Rain",
     "categories": [""],
     "description": "A visionary preset to give a purple touch to all your scenes. All pinks and violets shades brighten up and stand out. Macro shots will gain a magic soul with this lavender overlay.",
@@ -53,7 +53,7 @@
   },
   {
     "id": "3",
-    "publishingDate" : "16-10-2020",
+    "publishingDate" : "14-10-2020",
     "name": "Heavenly Blue",
     "categories": [""],
     "description": "The best preset to lighten up the blue of your skies and seas. All cold shades acquire a bright and deep hue. Shots become sharper and clearer, and everything will appear so refreshing.",
@@ -79,7 +79,7 @@
   },
   {
     "id": "4",
-    "publishingDate" : "17-10-2020",
+    "publishingDate" : "15-10-2020",
     "name": "Fluffy Friends",
     "categories": [""],
     "description": "The warmest preset to make your pets even cuter than what they are. Brown and all shades of fur gain in texture and warm tones. Cats and dogs photos will instantly have a softer look.",
@@ -105,7 +105,7 @@
   },
   {
     "id": "5",
-    "publishingDate" : "18-10-2020",
+    "publishingDate" : "16-10-2020",
     "name": "Pumpkin Spice",
     "categories": [""],
     "description": "A full orange preset to give your pumpkins a richer and enhanced look. All orange shades stand out thanks to a balanced contrast and richer shadows. All pumpkin related shots become memorable.",
@@ -131,7 +131,7 @@
   },
   {
     "id": "6",
-    "publishingDate" : "19-10-2020",
+    "publishingDate" : "17-10-2020",
     "name": "Autumn Vibes",
     "categories": [""],
     "description": "A fall preset to brighten all your orange and red tones. All falls and trees red tones will be enhanced by a richer contrast. Autumn shots will appear more intense and texturized.",
@@ -157,7 +157,7 @@
   },
   {
     "id": "7",
-    "publishingDate" : "20-10-2020",
+    "publishingDate" : "18-10-2020",
     "name": "So Fifties",
     "categories": [""],
     "description": "A vintage preset perfect to give your pics a retro style. All colors lose saturation and contrast. Portrait and objects grow a greener overlay to copycat the film photos.",
@@ -179,6 +179,84 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/7.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "8",
+    "publishingDate" : "19-10-2020",
+    "name": "Venice Painter",
+    "categories": [""],
+    "description": "A vintage preset perfect to give your pics a retro style. All colors lose saturation and contrast. Portrait and objects grow a greener overlay to copycat the film photos.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/81b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/81a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/82b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/82a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/83b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/83a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/84b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/84a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/8.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "9",
+    "publishingDate" : "20-10-2020",
+    "name": "Toujours Paris",
+    "categories": [""],
+    "description": "A vintage preset perfect to give your pics a retro style. All colors lose saturation and contrast. Portrait and objects grow a greener overlay to copycat the film photos.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/91b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/91a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/92b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/92a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/93b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/93a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/94b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/94a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/9.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "10",
+    "publishingDate" : "21-10-2020",
+    "name": "Blogger Interior",
+    "categories": [""],
+    "description": "A vintage preset perfect to give your pics a retro style. All colors lose saturation and contrast. Portrait and objects grow a greener overlay to copycat the film photos.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/101b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/101a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/102b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/102a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/103b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/103a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/104b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/104a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/10.dng",
     "isCollagePortrait": true
   }
 ]
