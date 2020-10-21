@@ -100,7 +100,7 @@ a:hover {
 .page-text h2 {
 	font-size: 1.1em;
 	font-weight: 600;
-	margin-bottom: 1em;
+	margin: 100px auto 1em auto;
 }
 
 article {
@@ -153,6 +153,7 @@ footer {
 
 footer a, a:visited {
 	color: #ababab;
+	padding: 0 5px;
 }
 
 
