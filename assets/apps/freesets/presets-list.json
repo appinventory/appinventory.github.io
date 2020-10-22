@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "publishingDate" : "12-10-2020",
+    "publishingDate" : "18-10-2020",
     "name": "Paparazzi",
     "categories": [""],
     "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
@@ -27,7 +27,7 @@
   },
   {
     "id": "2",
-    "publishingDate" : "13-10-2020",
+    "publishingDate" : "19-10-2020",
     "name": "Purple Rain",
     "categories": [""],
     "description": "A visionary preset to give a purple touch to all your scenes. All pinks and violets shades brighten up and stand out. Macro shots will gain a magic soul with this lavender overlay.",
@@ -53,7 +53,7 @@
   },
   {
     "id": "3",
-    "publishingDate" : "14-10-2020",
+    "publishingDate" : "20-10-2020",
     "name": "Heavenly Blue",
     "categories": [""],
     "description": "The best preset to lighten up the blue of your skies and seas. All cold shades acquire a bright and deep hue. Shots become sharper and clearer, and everything will appear so refreshing.",
@@ -79,7 +79,7 @@
   },
   {
     "id": "4",
-    "publishingDate" : "15-10-2020",
+    "publishingDate" : "21-10-2020",
     "name": "Fluffy Friends",
     "categories": [""],
     "description": "The warmest preset to make your pets even cuter than what they are. Brown and all shades of fur gain in texture and warm tones. Cats and dogs photos will instantly have a softer look.",
@@ -105,7 +105,7 @@
   },
   {
     "id": "5",
-    "publishingDate" : "16-10-2020",
+    "publishingDate" : "22-10-2020",
     "name": "Pumpkin Spice",
     "categories": [""],
     "description": "A full orange preset to give your pumpkins a richer and enhanced look. All orange shades stand out thanks to a balanced contrast and richer shadows. All pumpkin related shots become memorable.",
@@ -131,7 +131,7 @@
   },
   {
     "id": "6",
-    "publishingDate" : "17-10-2020",
+    "publishingDate" : "23-10-2020",
     "name": "Autumn Vibes",
     "categories": [""],
     "description": "A fall preset to brighten all your orange and red tones. All falls and trees red tones will be enhanced by a richer contrast. Autumn shots will appear more intense and texturized.",
@@ -157,7 +157,7 @@
   },
   {
     "id": "7",
-    "publishingDate" : "18-10-2020",
+    "publishingDate" : "24-10-2020",
     "name": "So Fifties",
     "categories": [""],
     "description": "A vintage preset perfect to give your pics a retro style. All colors lose saturation and contrast. Portrait and objects grow a greener overlay to copycat the film photos.",
@@ -183,7 +183,7 @@
   },
   {
     "id": "8",
-    "publishingDate" : "19-10-2020",
+    "publishingDate" : "25-10-2020",
     "name": "Venice Painter",
     "categories": [""],
     "description": "A colorful preset designed to enhance the shiny tones of Italian cities. The entire rainbow palette becomes brighter and more vibrant. Wall paintings and all dyes take the best advantage.",
@@ -209,7 +209,7 @@
   },
   {
     "id": "9",
-    "publishingDate" : "20-10-2020",
+    "publishingDate" : "26-10-2020",
     "name": "Toujours Paris",
     "categories": [""],
     "description": "The moodiest preset to give your city pics the Parisian look. Grey and black shades get instantly darker and high-contrast. Landscapes and skies gain a romantic rainy mood.",
@@ -235,7 +235,7 @@
   },
   {
     "id": "10",
-    "publishingDate" : "21-10-2020",
+    "publishingDate" : "27-10-2020",
     "name": "Blogger Interior",
     "categories": [""],
     "description": "The ideal preset to make a cool interior look even more stylish. All colors are defined and shine out without being edgy. Furniture and objects appear as the latest trend essentials.",
