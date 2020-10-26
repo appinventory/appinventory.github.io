@@ -336,5 +336,57 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/13.dng",
     "isCollagePortrait": false
+  },
+  {
+    "id": "14",
+    "publishingDate" : "31-10-2020",
+    "name": "Fields Of Gold",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/141b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/141a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/142b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/142a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/143b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/143a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/144b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/144a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/14.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "15",
+    "publishingDate" : "01-11-2020",
+    "name": "Rum And Cigars",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/151b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/151a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/152b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/152a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/153b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/153a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/154b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/154a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/15.dng",
+    "isCollagePortrait": false
   }
 ]
