@@ -388,5 +388,57 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/15.dng",
     "isCollagePortrait": false
+  },
+  {
+    "id": "16",
+    "publishingDate" : "02-11-2020",
+    "name": "Cozy Sunday",
+    "categories": [""],
+    "description": "The coziest preset to make your interior more “hygge”. Warm tones and a soft light brighten up your home photos in a flash.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/161b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/161a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/162b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/162a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/163b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/163a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/164b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/164a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/16.dng",
+    "isCollagePortrait": false
+  },
+  {
+    "id": "17",
+    "publishingDate" : "03-11-2020",
+    "name": "Houseplant Lover",
+    "categories": [""],
+    "description": "The greenest preset ideal to make your houseplants pop out. Green shades gain in saturation and leaves become more textured. Use this filter in all interior pics with green plants.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/171b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/171a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/172b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/172a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/173b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/173a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/174b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/174a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/17.dng",
+    "isCollagePortrait": false
   }
 ]
