@@ -258,5 +258,83 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/10.dng",
     "isCollagePortrait": true
+  },
+  {
+    "id": "11",
+    "publishingDate" : "28-10-2020",
+    "name": "Neon",
+    "categories": [""],
+    "description": "The best preset to give a twist to your night photos. All colours gain a blue and red tone. Shots become darker and mysterious with a glowing touch.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/111b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/111a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/112b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/112a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/113b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/113a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/114b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/114a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/11.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "12",
+    "publishingDate" : "29-10-2020",
+    "name": "Urban Portrait",
+    "categories": [""],
+    "description": "A stylish preset designed to enhance the coolness of your portraits. Faces, clothes and backgrounds are desatured and over exposed. Everything has a strong street style photography mood.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/121b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/121a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/122b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/122a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/123b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/123a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/124b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/124a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/12.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "13",
+    "publishingDate" : "30-10-2020",
+    "name": "Ambner Light",
+    "categories": [""],
+    "description": "A warm preset to give a magic touch to your pics. Yellow and orange shades get warmer and deeper. Coffee, red hair and wooden become instantly intense.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/131b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/131a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/132b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/132a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/133b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/133a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/134b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/134a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/13.dng",
+    "isCollagePortrait": false
   }
 ]
