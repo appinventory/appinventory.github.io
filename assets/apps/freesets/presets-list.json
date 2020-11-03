@@ -440,5 +440,83 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/17.dng",
     "isCollagePortrait": false
+  },
+  {
+    "id": "18",
+    "publishingDate" : "04-11-2020",
+    "name": "Pink Panther",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/181b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/181a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/182b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/182a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/183b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/183a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/184b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/184a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/18.dng",
+    "isCollagePortrait": false
+  },
+  {
+    "id": "19",
+    "publishingDate" : "05-11-2020",
+    "name": "Bread",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/191b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/191a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/192b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/192a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/193b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/193a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/194b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/194a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/19.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "20",
+    "publishingDate" : "06-11-2020",
+    "name": "Eat Your Green",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/201b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/201a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/202b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/202a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/203b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/203a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/204b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/204a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/20.dng",
+    "isCollagePortrait": true
   }
 ]
