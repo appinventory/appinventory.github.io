@@ -648,5 +648,161 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/25.dng",
     "isCollagePortrait": false
+  },
+  {
+    "id": "26",
+    "publishingDate" : "12-11-2020",
+    "name": "Celebrity Skin",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/261b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/261a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/262b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/262a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/263b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/263a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/264b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/264a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/26.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "27",
+    "publishingDate" : "13-11-2020",
+    "name": "Orange Shades",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/271b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/271a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/272b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/272a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/273b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/273a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/274b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/274a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/27.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "28",
+    "publishingDate" : "14-11-2020",
+    "name": "Wild Nature",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/281b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/281a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/282b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/282a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/283b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/283a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/284b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/284a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/28.dng",
+    "isCollagePortrait": false
+  },
+  {
+    "id": "29",
+    "publishingDate" : "15-11-2020",
+    "name": "Blue To Green",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/291b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/291a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/292b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/292a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/293b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/293a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/294b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/294a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/29.dng",
+    "isCollagePortrait": false
+  },
+  {
+    "id": "30",
+    "publishingDate" : "16-11-2020",
+    "name": "Back To The 80s",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/301b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/301a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/302b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/302a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/303b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/303a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/304b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/304a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/30.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "31",
+    "publishingDate" : "17-11-2020",
+    "name": "Drama Portrait",
+    "categories": [""],
+    "description": "",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/311b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/311a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/312b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/312a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/313b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/313a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/314b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/314a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/31.dng",
+    "isCollagePortrait": false
   }
 ]
