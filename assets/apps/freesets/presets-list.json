@@ -602,7 +602,7 @@
     "publishingDate" : "10-11-2020",
     "name": "Lights Up",
     "categories": [""],
-    "description": "The greenest preset ideal to make your houseplants pop out. Green shades gain in saturation and leaves become more textured. Use this filter in all interior pics with green plants.",
+    "description": "The most enlightened preset to brighten up your portraits with a glam look. Colors lose saturation and gain in contrast to emphasize the style of the subject.",
     "previews": [{
         "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/241b.jpg",
         "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/241a.jpg"
@@ -622,5 +622,31 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/24.dng",
     "isCollagePortrait": true
+  },
+  {
+    "id": "25",
+    "publishingDate" : "11-11-2020",
+    "name": "Sunshine",
+    "categories": [""],
+    "description": "The ideal preset to enlighten your seaside pics. All blues and turquoise shades become brighter and stronger.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/251b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/251a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/252b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/252a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/253b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/253a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/254b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/254a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/25.dng",
+    "isCollagePortrait": false
   }
 ]
