@@ -596,5 +596,31 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/23.dng",
     "isCollagePortrait": true
+  },
+  {
+    "id": "24",
+    "publishingDate" : "10-11-2020",
+    "name": "Lights Up",
+    "categories": [""],
+    "description": "The greenest preset ideal to make your houseplants pop out. Green shades gain in saturation and leaves become more textured. Use this filter in all interior pics with green plants.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/241b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/241a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/242b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/242a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/243b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/243a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/244b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/244a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/24.dng",
+    "isCollagePortrait": true
   }
 ]
