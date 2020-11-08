@@ -491,7 +491,7 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/19.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": false
   },
   {
     "id": "20",
@@ -543,7 +543,7 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/21.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": false
   },
   {
     "id": "22",
