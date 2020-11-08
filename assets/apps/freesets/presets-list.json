@@ -518,5 +518,83 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/20.dng",
     "isCollagePortrait": true
+  },
+  {
+    "id": "21",
+    "publishingDate" : "07-11-2020",
+    "name": "Real Leather",
+    "categories": [""],
+    "description": "A warm preset to enhance the texture and colors of real leather goods. Brown and orange shades get warmer and darker. Boots, gloves and bags gain instantly a luxury appeal.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/211b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/211a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/212b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/212a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/213b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/213a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/214b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/214a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/21.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "22",
+    "publishingDate" : "08-11-2020",
+    "name": "Snowball Effect",
+    "categories": [""],
+    "description": "A bright preset to make your winter pics stand out. Snow whites are enriched and the atmosphere is cooled by a winter light effect.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/221b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/221a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/222b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/222a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/223b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/223a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/224b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/224a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/22.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "23",
+    "publishingDate" : "09-11-2020",
+    "name": "Yellow To Orange",
+    "categories": [""],
+    "description": "A color focus preset to transform all your yellow details into red. All tints from lemons to taxis will turn into a reddish shade.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/231b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/231a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/232b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/232a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/233b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/233a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/234b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/234a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/23.dng",
+    "isCollagePortrait": true
   }
 ]
