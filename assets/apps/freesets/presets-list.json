@@ -804,5 +804,135 @@
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/31.dng",
     "isCollagePortrait": false
+  },
+  {
+    "id": "32",
+    "publishingDate" : "18-11-2020",
+    "name": "Cozy Interior",
+    "categories": [""],
+    "description": "The coziest preset to give a cool touch to your interior pics. Warm shades, rich contrasts and stand out whites will give you apartment a magazine style look.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/321b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/321a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/322b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/322a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/323b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/323a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/324b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/324a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/32.dng",
+    "isCollagePortrait": false
+  },
+  {
+    "id": "33",
+    "publishingDate" : "19-11-2020",
+    "name": "Golden Hour",
+    "categories": [""],
+    "description": "A warm preset to intensify your golden hour shots. All natural tints become reddish while gaining in contrast and exposure.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/331b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/331a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/332b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/332a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/333b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/333a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/334b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/334a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/33.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "34",
+    "publishingDate" : "20-11-2020",
+    "name": "Fairy Tale",
+    "categories": [""],
+    "description": "A dreamy preset to give a magical touch to your outdoor photos. All colors are desaturated and a white layer gives an enchanted atmosphere to the landscape.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/341b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/341a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/342b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/342a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/343b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/343a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/344b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/344a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/34.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "35",
+    "publishingDate" : "21-11-2020",
+    "name": "XMas Lights",
+    "categories": [""],
+    "description": "The best preset to enhance your Christmas pics with red details. All green and brown shades become darker and more intense. Luminance and saturation emphasize the red shades.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/351b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/351a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/352b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/352a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/353b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/353a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/354b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/354a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/35.dng",
+    "isCollagePortrait": true
+  },
+  {
+    "id": "36",
+    "publishingDate" : "22-11-2020",
+    "name": "Into The Wild",
+    "categories": [""],
+    "description": "The ideal preset to enhance your pics of traveling in the nature. All the natural tones are desaturated while bodies and faces stand out.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/361b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/361a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/362b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/362a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/363b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/363a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/364b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/364a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/36.dng",
+    "isCollagePortrait": true
   }
 ]
