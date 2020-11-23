@@ -23,7 +23,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/1/1.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": true,
+    "instagramUsername": "martainthejar"
   },
   {
     "id": "2",
@@ -49,7 +51,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/2/2.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "3",
@@ -75,7 +79,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/3/3.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "4",
@@ -101,7 +107,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/4/4.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "5",
@@ -127,7 +135,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/5/5.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "6",
@@ -153,7 +163,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/6/6.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "7",
@@ -179,7 +191,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/7/7.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "8",
@@ -205,7 +219,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/8/8.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "9",
@@ -231,7 +247,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/9/9.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "10",
@@ -257,7 +275,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/10/10.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "11",
@@ -283,7 +303,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/11/11.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "12",
@@ -309,7 +331,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/12/12.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "13",
@@ -335,7 +359,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/13/13.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "14",
@@ -361,7 +387,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/14/14.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "15",
@@ -387,7 +415,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/15/15.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "16",
@@ -413,7 +443,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/16/16.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "17",
@@ -439,7 +471,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/17/17.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "18",
@@ -465,7 +499,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/18/18.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "19",
@@ -491,7 +527,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/19/19.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "20",
@@ -517,7 +555,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/20/20.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "21",
@@ -543,7 +583,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/21/21.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "22",
@@ -569,7 +611,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/22/22.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "23",
@@ -595,7 +639,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/23/23.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "24",
@@ -621,7 +667,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/24/24.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "25",
@@ -647,7 +695,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/25/25.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "26",
@@ -673,7 +723,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/26/26.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "27",
@@ -699,7 +751,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/27/27.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "28",
@@ -725,7 +779,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/28/28.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "29",
@@ -751,7 +807,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/29/29.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "30",
@@ -777,7 +835,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/30/30.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "31",
@@ -803,7 +863,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/31/31.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "32",
@@ -829,7 +891,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/32/32.dng",
-    "isCollagePortrait": false
+    "isCollagePortrait": false,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "33",
@@ -855,7 +919,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/33/33.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "34",
@@ -881,7 +947,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/34/34.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "35",
@@ -907,7 +975,9 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/35/35.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   },
   {
     "id": "36",
@@ -933,6 +1003,8 @@
       }
     ],
     "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/36/36.dng",
-    "isCollagePortrait": true
+    "isCollagePortrait": true,
+    "isFeatured": false,
+    "instagramUsername": ""
   }
 ]
