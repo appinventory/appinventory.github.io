@@ -1006,5 +1006,33 @@
     "isCollagePortrait": true,
     "isPartnership": false,
     "instagramUsername": ""
+  },
+  {
+    "id": "37",
+    "publishingDate" : "23-11-2020",
+    "name": "Buon Appetito",
+    "categories": [""],
+    "description": "The best preset to enhance your food pics details. All yellow, green and red colors become brighter and more intense. Luminance and saturation emphasize all natural elements.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/371b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/371a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/372b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/372a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/373b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/373a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/374b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/374a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/37/37.dng",
+    "isCollagePortrait": true,
+    "isPartnership": true,
+    "instagramUsername": "martainthejar"
   }
 ]
