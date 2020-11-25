@@ -1034,5 +1034,173 @@
     "isCollagePortrait": true,
     "isPartnership": true,
     "instagramUsername": "martainthejar"
+  },
+  {
+    "id": "38",
+    "publishingDate" : "24-11-2020",
+    "name": "Cold Weather",
+    "categories": [""],
+    "description": "The coolest preset ideal to enhance your winter pics. All colors lose in temperature and gain a blueish shade.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/381b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/381a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/382b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/382a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/383b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/383a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/384b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/384a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/38/38.dng",
+    "isCollagePortrait": true,
+    "isPartnership": false,
+    "instagramUsername": ""
+  },
+  {
+    "id": "39",
+    "publishingDate" : "25-11-2020",
+    "name": "Intense Portrait",
+    "categories": [""],
+    "description": "The coolest preset ideal to make your portraits stand out. All tinted shades loose in saturation and gain in contrast. Use this filter for all epic mood photos.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/391b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/391a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/392b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/392a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/393b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/393a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/394b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/394a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/39/39.dng",
+    "isCollagePortrait": true,
+    "isPartnership": false,
+    "instagramUsername": ""
+  },
+  {
+    "id": "40",
+    "publishingDate" : "26-11-2020",
+    "name": "Hygge Moments",
+    "categories": [""],
+    "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/401b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/401a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/402b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/402a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/403b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/403a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/404b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/404a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/40/40.dng",
+    "isCollagePortrait": true,
+    "isPartnership": false,
+    "instagramUsername": ""
+  },
+  {
+    "id": "41",
+    "publishingDate" : "27-11-2020",
+    "name": "Girl On Fire",
+    "categories": [""],
+    "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/411b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/411a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/412b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/412a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/413b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/413a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/414b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/414a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/41/41.dng",
+    "isCollagePortrait": true,
+    "isPartnership": false,
+    "instagramUsername": ""
+  },
+  {
+    "id": "42",
+    "publishingDate" : "28-11-2020",
+    "name": "Black Coffee",
+    "categories": [""],
+    "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/421b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/421a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/422b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/422a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/423b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/423a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/424b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/424a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/42/42.dng",
+    "isCollagePortrait": false,
+    "isPartnership": false,
+    "instagramUsername": ""
+  },
+  {
+    "id": "43",
+    "publishingDate" : "29-11-2020",
+    "name": "Meditation",
+    "categories": [""],
+    "description": "With this preset you can achieve an expressive look with sharp light and rich contrasted shadows. The way to go to make your portraits stand out from the crowd.",
+    "previews": [{
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/431b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/431a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/432b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/432a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/433b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/433a.jpg"
+      },
+      {
+        "beforeURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/434b.jpg",
+        "afterURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/434a.jpg"
+      }
+    ],
+    "dngURL": "https://appinventory.github.io/assets/apps/freesets/presets/43/43.dng",
+    "isCollagePortrait": false,
+    "isPartnership": false,
+    "instagramUsername": ""
   }
 ]
