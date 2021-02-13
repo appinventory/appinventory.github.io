@@ -265,7 +265,7 @@
     ]
   },
   {
-    "feedId": "feed/https://www.martainthejar.com/feed",
+    "feedId": "feed/https://www.martainthejar.com/feed/rss2",
     "lastUpdated": 1610132760000,
     "score": 1.09506E7,
     "coverage": 0.22545124492288704,
@@ -279,7 +279,7 @@
     },
     "totalTagCount": 47122,
     "websiteTitle": "Marta in the jar | Eating since 1987",
-    "id": "feed/https://www.martainthejar.com/feed",
+    "id": "feed/https://www.martainthejar.com/feed/rss2",
     "title": "Marta in the jar",
     "topics": [
       "food"
