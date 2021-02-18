@@ -2,16 +2,6 @@
   {
     "feedId": "feed/http://feeds.feedburner.com/Techcrunch",
     "lastUpdated": 1610248080000,
-    "score": 1.11595296E8,
-    "coverage": 0.10935409918028881,
-    "averageReadTime": 29.101767026634615,
-    "coverageScore": 3.18239751775226,
-    "estimatedEngagement": 383,
-    "tagCounts": {
-      "tech": 492361
-    },
-    "totalTagCount": 568034,
-    "websiteTitle": "TechCrunch – Startup and Technology News",
     "id": "feed/http://feeds.feedburner.com/Techcrunch",
     "language": "en",
     "title": "TechCrunch",
@@ -19,33 +9,16 @@
       "tech"
     ],
     "velocity": 155.1,
-    "subscribers": 1115966,
     "updated": 1610248080000,
     "website": "https://techcrunch.com",
     "iconUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_sicon-17645433888",
-    "partial": false,
     "visualUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_svisual-17645433888",
-    "contentType": "longform",
     "description": "TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.",
-    "deliciousTags": [
-      "tech"
-    ]
   },
   {
     "feedId": "feed/http://www.macrumors.com/macrumors.xml",
     "lastUpdated": 1610239620000,
-    "score": 3.55864E7,
-    "coverage": 0.1505798513179055,
-    "averageReadTime": 31.191101588012266,
-    "coverageScore": 4.696751439564573,
-    "estimatedEngagement": 1013,
-    "tagCounts": {
-      "tech": 117795,
-      "apple": 38940,
-      "mac": 9471
-    },
     "totalTagCount": 182224,
-    "websiteTitle": "MacRumors: Apple News and Rumors",
     "id": "feed/http://www.macrumors.com/macrumors.xml",
     "title": "MacRumors",
     "topics": [
@@ -53,232 +26,17 @@
       "apple"
     ],
     "velocity": 65.3,
-    "subscribers": 355867,
-    "updated": 1610239620000,
     "website": "https://www.macrumors.com",
     "iconUrl": "https://storage.googleapis.com/site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_icon-16d1f2978de",
-    "partial": false,
     "coverUrl": "https://storage.googleapis.com/site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_cover-15b926b52a9",
     "visualUrl": "https://storage.googleapis.com/site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_visual-16d1f2978de",
-    "contentType": "article",
     "language": "en",
     "description": "Apple, iPhone, iPad, Mac News and Rumors.",
-    "coverColor": "C2D6F2",
-    "deliciousTags": [
-      "tech",
-      "apple",
-      "mac"
-    ],
-    "analyticsEngine": "GoogleAnalytics",
-    "analyticsId": "UA-105064-13",
     "logo": "http://storage.googleapis.com/test-site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_ologo-14f43255278",
-    "relatedLayout": "card",
-    "relatedTarget": "browser",
-    "accentColor": "008"
-  },
-  {
-    "feedId": "feed/http://bleacherreport.com/articles/feed",
-    "lastUpdated": 1610254560000,
-    "score": 5902200.0,
-    "coverage": 0.04162774334338149,
-    "averageReadTime": 41.64009628130887,
-    "coverageScore": 1.7333832407920198,
-    "estimatedEngagement": 250,
-    "tagCounts": {
-      "sports": 29984
-    },
-    "totalTagCount": 32021,
-    "websiteTitle": "Bleacher Report | Sports. Highlights. News. Now.",
-    "id": "feed/http://bleacherreport.com/articles/feed",
-    "language": "en",
-    "title": "Bleacher Report - Front Page",
-    "topics": [
-      "sports"
-    ],
-    "velocity": 676.7,
-    "subscribers": 59022,
-    "updated": 1610254560000,
-    "website": "https://bleacherreport.com",
-    "iconUrl": "https://storage.googleapis.com/site-assets/causQNG8JAzAE7rHqb8r4MQMhGbF0x8nPJdcfiQ_46A_sicon-163ba3eae91",
-    "partial": true,
-    "visualUrl": "https://storage.googleapis.com/site-assets/causQNG8JAzAE7rHqb8r4MQMhGbF0x8nPJdcfiQ_46A_svisual-163ba3eae91",
-    "contentType": "article",
-    "description": "Bleacher Report - The latest articles about sports news, rumors, teams, events, and more.",
-    "deliciousTags": [
-      "sports"
-    ]
-  },
-  {
-    "feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "lastUpdated": 1610253540000,
-    "score": 7.7935104E7,
-    "coverage": 0.051466145320615386,
-    "averageReadTime": 85.44520461131627,
-    "coverageScore": 4.397535317475719,
-    "estimatedEngagement": 12878,
-    "tagCounts": {
-      "news": 318090,
-      "world": 10819
-    },
-    "totalTagCount": 365002,
-    "websiteTitle": "The New York Times - Breaking News, US News, World News and Videos",
-    "id": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "title": "NYT > Top Stories",
-    "topics": [
-      "news",
-      "world"
-    ],
-    "velocity": 665.0,
-    "subscribers": 779361,
-    "updated": 1610253540000,
-    "website": "https://nytimes.com",
-    "iconUrl": "https://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_icon-16a2a518642",
-    "partial": true,
-    "coverUrl": "https://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_cover-170f4ed8fad",
-    "visualUrl": "https://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_visual-16a2a518642",
-    "language": "en",
-    "contentType": "article",
-    "description": "Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies & more.",
-    "coverColor": "131516",
-    "deliciousTags": [
-      "news",
-      "world"
-    ],
-    "logo": "http://storage.googleapis.com/test-site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_ologo-14f043d04fc"
-  },
-  {
-    "feedId": "feed/http://www.theverge.com/rss/full.xml",
-    "lastUpdated": 1610240160000,
-    "score": 1.22260096E8,
-    "coverage": 0.10628973673299848,
-    "averageReadTime": 58.37586085180383,
-    "coverageScore": 6.2047548815003815,
-    "estimatedEngagement": 14654,
-    "tagCounts": {
-      "tech": 532519
-    },
-    "totalTagCount": 606639,
-    "websiteTitle": "The Verge",
-    "id": "feed/http://www.theverge.com/rss/full.xml",
-    "title": "The Verge",
-    "topics": [
-      "tech"
-    ],
-    "velocity": 148.6,
-    "subscribers": 1222619,
-    "updated": 1610240160000,
-    "website": "https://www.theverge.com/",
-    "iconUrl": "https://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_icon-15cd6b8692d",
-    "partial": false,
-    "coverUrl": "https://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_cover-174dc9be5d6",
-    "visualUrl": "https://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_visual-15cd6b8692d",
-    "language": "en",
-    "contentType": "article",
-    "description": "Covering the intersection of technology, science, art, and culture.",
-    "coverColor": "FFFFFF",
-    "deliciousTags": [
-      "tech"
-    ],
-    "logo": "http://storage.googleapis.com/test-site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_ologo-14be62cd987",
-    "wordmark": "http://storage.googleapis.com/test-site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_owordmark-1503a52ff7f",
-    "relatedLayout": "card",
-    "relatedTarget": "browser",
-    "accentColor": "fa4b2a"
-  },
-  {
-    "feedId": "feed/http://9to5mac.com/feed/",
-    "lastUpdated": 1610240040000,
-    "score": 1.43027E7,
-    "coverage": 0.14150434239578344,
-    "averageReadTime": 26.733079562423512,
-    "coverageScore": 3.782846843694897,
-    "estimatedEngagement": 613,
-    "tagCounts": {
-      "tech": 32110,
-      "apple": 21618,
-      "mac": 4065
-    },
-    "totalTagCount": 64193,
-    "websiteTitle": "9to5Mac - Apple News & Mac Rumors Breaking All Day",
-    "id": "feed/http://9to5mac.com/feed/",
-    "title": "9to5Mac",
-    "topics": [
-      "tech",
-      "apple"
-    ],
-    "velocity": 88.5,
-    "subscribers": 143032,
-    "updated": 1610240040000,
-    "website": "https://9to5mac.com",
-    "iconUrl": "https://storage.googleapis.com/site-assets/BmoAzSEWHFzR01wyxBZAhNEo11Vy8oDR1qKDe-tKVEQ_icon-164ac69929b",
-    "partial": true,
-    "coverUrl": "https://storage.googleapis.com/site-assets/BmoAzSEWHFzR01wyxBZAhNEo11Vy8oDR1qKDe-tKVEQ_cover-165df537dee",
-    "visualUrl": "https://storage.googleapis.com/site-assets/BmoAzSEWHFzR01wyxBZAhNEo11Vy8oDR1qKDe-tKVEQ_visual-164ac69929b",
-    "contentType": "article",
-    "language": "en",
-    "description": "News and reviews for Apple products, apps, and rumors. We provide breaking coverage for the iPhone, iPad, and all things Mac!",
-    "coverColor": "636363",
-    "deliciousTags": [
-      "tech",
-      "apple",
-      "mac"
-    ]
-  },
-  {
-    "feedId": "feed/http://www.washingtonpost.com/rss/homepage",
-    "lastUpdated": 1610253360000,
-    "score": 9378900.0,
-    "coverage": 0.04094140909451982,
-    "averageReadTime": 65.93787292514969,
-    "coverageScore": 2.6995894302510157,
-    "estimatedEngagement": 23675,
-    "tagCounts": {
-      "newspaper": 1058,
-      "news": 34750,
-      "politics": 1191,
-      "world": 1988
-    },
-    "totalTagCount": 45764,
-    "websiteTitle": "The Washington Post: Breaking News, World, US, DC News and Analysis",
-    "id": "feed/http://www.washingtonpost.com/rss/homepage",
-    "title": "Washington Post: Breaking News, World, US, DC News & Analysis",
-    "topics": [
-      "news"
-    ],
-    "velocity": 743.1,
-    "subscribers": 93796,
-    "updated": 1610253360000,
-    "website": "http://www.washingtonpost.com/pb/homepage/",
-    "iconUrl": "https://storage.googleapis.com/site-assets/PabZ8i1QCHv3KpsuDwP-IaHjEII8doc1zV63QTNW0N8_icon-166f1271c44",
-    "partial": true,
-    "coverUrl": "https://storage.googleapis.com/site-assets/PabZ8i1QCHv3KpsuDwP-IaHjEII8doc1zV63QTNW0N8_cover-15b8d56a361",
-    "visualUrl": "https://storage.googleapis.com/site-assets/PabZ8i1QCHv3KpsuDwP-IaHjEII8doc1zV63QTNW0N8_visual-166f1271c44",
-    "contentType": "article",
-    "language": "en",
-    "description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
-    "coverColor": "333333",
-    "deliciousTags": [
-      "news",
-      "world",
-      "politics",
-      "newspaper"
-    ]
   },
   {
     "feedId": "feed/https://www.martainthejar.com/feed/rss2",
     "lastUpdated": 1610132760000,
-    "score": 1.09506E7,
-    "coverage": 0.22545124492288704,
-    "averageReadTime": 27.11294838145232,
-    "coverageScore": 6.1126479661284,
-    "estimatedEngagement": 181,
-    "tagCounts": {
-      "recipes": 1405,
-      "cooking": 10989,
-      "food": 29094
-    },
-    "totalTagCount": 47122,
-    "websiteTitle": "Marta in the jar | Eating since 1987",
     "id": "feed/https://www.martainthejar.com/feed/rss2",
     "title": "Marta in the jar",
     "topics": [
@@ -288,8 +46,22 @@
     "iconUrl": "https://www.martainthejar.com/wp-content/uploads/2020/10/cropped-Schermata-2020-10-08-alle-00.25.05-192x192.png",
     "coverUrl": "https://www.martainthejar.com/wp-content/uploads/2020/10/cropped-Schermata-2020-10-08-alle-00.25.05-192x192.png",
     "visualUrl": "https://www.martainthejar.com/wp-content/uploads/2020/10/cropped-Schermata-2020-10-08-alle-00.25.05-192x192.png",
-    "contentType": "article",
     "language": "en",
     "description": "Love healthy food with a real taste? Discover all the latest recipes from my jar to your kitchen."
+  },
+  {
+    "feedId": "feed/https://ilgiorno.it/rss",
+    "lastUpdated": 1610132760000,
+    "id": "feed/https://ilgiorno.it/rss",
+    "title": "Il Giorno",
+    "topics": [
+      "food"
+    ],
+    "website": "https://www.ilgiorno.it",
+    "iconUrl": "https://www.ilgiorno.it/favicon.ico",
+    "coverUrl": "https://www.ilgiorno.it/favicon.ico",
+    "visualUrl": "https://www.ilgiorno.it/favicon.ico",
+    "language": "it",
+    "description": "Quotidiano di Milano, notizie della Lombardia"
   }
 ]
