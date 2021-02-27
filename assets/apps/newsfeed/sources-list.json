@@ -35,9 +35,9 @@
     "logo": "http://storage.googleapis.com/test-site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_ologo-14f43255278",
   },
   {
-    "feedId": "feed/https://www.martainthejar.com/feed/rss2",
+    "feedId": "feed/https://www.martainthejar.com/feed",
     "lastUpdated": 1610132760000,
-    "id": "feed/https://www.martainthejar.com/feed/rss2",
+    "id": "feed/https://www.martainthejar.com/feed",
     "title": "Marta in the jar",
     "topics": [
       "food"
